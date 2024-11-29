@@ -27,8 +27,8 @@ header ul {
     grid-template-columns: 300px 300px 300px;
     column-gap:40px;
     background-color: rgba(147, 27, 27, 0.557);
-    padding: 0px 30px 30px 180px;
-    margin:0px -50px;
+    padding: 20px 30px 30px 180px;
+    margin:20px -50px;
 
 }
 /*Footer image collection layout*/
