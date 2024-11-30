@@ -148,6 +148,10 @@ width: 350px;
      
     
 }
+.foot a:hover{
+    color:wheat;
+    text-decoration: underline;
+}
  /*Contact page main style*/
 .name{
     margin-top: 20px;
